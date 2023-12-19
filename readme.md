@@ -4,7 +4,7 @@
 
 ## 效果图：
 
-![image-20231219165051032](C:\Users\hehe\AppData\Roaming\Typora\typora-user-images\image-20231219165051032.png)
+![avatar](image/Snipaste_2023-12-19_17-13-45.png)
 
 ## 说明：
 
